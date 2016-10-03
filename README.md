@@ -3,5 +3,5 @@ Undetectable poker bot for the game Grandblue Fantasy to help people tired with 
 Check the media on the dedicated website:
 https://poker-bot.azurewebsites.net/
 
-Current version: 1.7.1
+Current version: 1.7.2
 Patch notes: https://poker-bot.azurewebsites.net/en/Home/PatchNotes
