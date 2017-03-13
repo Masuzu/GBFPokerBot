@@ -8,4 +8,4 @@ Patch notes: https://poker-bot.azurewebsites.net/en/Home/PatchNotes
 
 ###March 12, 2017
 
-Introducing [Zooey-bot](https://github.com/Masuzu/ZooeyBot), a quest grinding bot.
+Introducing [Zooey-bot](https://github.com/Masuzu/ZooeyBot), a quest grinding bot for Grandblue Fantasy.
