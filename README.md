@@ -11,6 +11,8 @@ While you are at it, feel free to check out [Zooey-bot](https://github.com/Masuz
 
 Did you know that onboarding new members also nets you **[cash rewards](https://gbtools.azurewebsites.net/en/Home/AffiliateProgram)**?
 
+
+
 [Requirements](https://gbtools.azurewebsites.net/PokerBot/en/Home/Requirements)
 
 Running into Windows Defender or Antivirus issues when trying to [download](https://github.com/Masuzu/GBFPokerBot/releases) the program? We are also aware of this known "issue", rest assured, it is a false positive.
