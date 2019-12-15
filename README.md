@@ -10,3 +10,7 @@ Current version patch notes: [2.10.0](https://gbtools.azurewebsites.net/PokerBot
 While you are at it, feel free to check out [Zooey-bot](https://github.com/Masuzu/ZooeyBot), a well-established quest grinding bot for Grandblue Fantasy, and her sister [Sarasa-bot](https://github.com/Masuzu/SarasaBot). Raiding has never been this easygoing!
 
 Did you know that onboarding new members also nets you **[cash rewards](https://gbtools.azurewebsites.net/en/Home/AffiliateProgram)**?
+
+[Requirements](https://gbtools.azurewebsites.net/PokerBot/en/Home/Requirements)
+
+Running into Windows Defender or Antivirus issues when trying to [download](https://github.com/Masuzu/GBFPokerBot/releases) the program? We are also awayre of this known "issue" which may happen.
