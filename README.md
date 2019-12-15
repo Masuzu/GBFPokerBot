@@ -3,7 +3,7 @@
 Time flies, 3 years already!
 
 The  best-established and undetectable poker bot and for the game Grandblue Fantasy to help people tired with mindless grinding the casino 24/7.
-Joing the fray on [here](https://gbtools.azurewebsites.net/PokerBot/en/Home)
+Joing the fray [here](https://gbtools.azurewebsites.net/PokerBot/en/Home).
 
 Current version patch notes [2.10.0](https://gbtools.azurewebsites.net/SarasaBot/en/Home/PatchNotes#2-10-0)
 
