@@ -3,9 +3,8 @@ Undetectable poker bot for the game Grandblue Fantasy to help people tired with 
 Check the media on the dedicated website:
 https://gbtools.azurewebsites.net/PokerBot/en/Home
 
-Current version: 2.8.0
-Patch notes: https://gbtools.azurewebsites.net/PokerBot/en/Home/PatchNotes
 
-###March 12, 2017
+Current version patch notes [2.10.0](https://gbtools.azurewebsites.net/SarasaBot/en/Home/PatchNotes#2-10-0)
 
-Introducing [Zooey-bot](https://github.com/Masuzu/ZooeyBot), a quest grinding bot for Grandblue Fantasy.
+Check out [Zooey-bot](https://github.com/Masuzu/ZooeyBot), a well-established quest grinding bot for Grandblue Fantasy, and her sister [Sarasa-bot](https://github.com/Masuzu/SarasaBot). Raiding has never been this easygoing!
+
