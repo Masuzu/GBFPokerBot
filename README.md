@@ -1,6 +1,6 @@
 # GBFPokerBot
 
-Time flies, [3 years](https://gbtools.azurewebsites.net/PokerBot/en/Home/PatchNotes) already!
+Time flies, [3 years](https://gbtools.azurewebsites.net/PokerBot/en/Home/PatchNotes#1-6-14) already!
 
 The  best-established and undetectable poker bot and for the game Grandblue Fantasy to help people tired with mindless grinding the casino 24/7.
 Joing the fray [here](https://gbtools.azurewebsites.net/PokerBot/en/Home).
