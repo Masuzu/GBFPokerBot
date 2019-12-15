@@ -13,4 +13,4 @@ Did you know that onboarding new members also nets you **[cash rewards](https://
 
 [Requirements](https://gbtools.azurewebsites.net/PokerBot/en/Home/Requirements)
 
-Running into Windows Defender or Antivirus issues when trying to [download](https://github.com/Masuzu/GBFPokerBot/releases) the program? We are also awayre of this known "issue" which may happen.
+Running into Windows Defender or Antivirus issues when trying to [download](https://github.com/Masuzu/GBFPokerBot/releases) the program? We are also aware of this known "issue", rest assured, it is a false positive.
